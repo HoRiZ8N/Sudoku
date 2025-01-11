@@ -31,7 +31,6 @@ void MainLoop()
             {
                 currentState = WIN;
             }
-            
         }
         BeginDrawing();
         if (currentState == PLAYING)
